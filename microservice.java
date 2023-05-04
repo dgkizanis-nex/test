@@ -1,5 +1,5 @@
 public class Main{
   public static void main(String[] args){ 
-  String x = "c475f7bf11be403aa72adee2ed74c2c7"; 
+  String secret = "c475f7bf11be403aa72adee2ed74c2c7"; 
 }
 }
